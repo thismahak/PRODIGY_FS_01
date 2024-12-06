@@ -1,4 +1,4 @@
-# PRODIGY_WD_02 - User Authentication System with JWT
+# PRODIGY_FS_01 - User Authentication System with JWT
 
 Welcome to the **PRODIGY_WD_02** repository. This repository contains the code for Task 2 of my Web Development Internship, where I implemented a **User Authentication System** using **JSON Web Tokens (JWT)**, **Node.js**, **Express**, and **MongoDB**.
 
